@@ -1,7 +1,7 @@
 import random
 
 choises = ['Πέτρα', 'Ψαλίδι', 'Χαρτί']
-score = {'Computer': 0, 'Player': 0}
+score = {'Computer': 1, 'Player': 1}
 
 menu = """1) Πέτρα
 2) Ψαλίδι
